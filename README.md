@@ -8,7 +8,8 @@
 5) Polynomial Regression 
 6) Support Vector Machine Regression 
 7) Decision Tree Regression 
-8) Random Forest Regression 
+8) Random Forest Regression
+9) Artificial Neural Networks 
 
 [Click here](https://www.kaggle.com/ritikmaheshwari/diamond-price-prediction) to get the dataset from Kaggle. 
 
